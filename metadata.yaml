@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '36343'
     url: http://www.gutenberg.org/2009/agents/36343
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39361#Old-New-Zealandthe-North-against-the-Chief-Heke-in-the-Year-1845
 gutenberg_issued: '2012-04-03'
 gutenberg_type: Text
 identifiers:
