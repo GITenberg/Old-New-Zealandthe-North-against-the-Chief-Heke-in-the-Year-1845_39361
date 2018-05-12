@@ -1,0 +1,29 @@
+_repo: Old-New-Zealandthe-North-against-the-Chief-Heke-in-the-Year-1845_39361
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maning, Frederick Edward
+    alias: Maning, F. E. (Frederick Edward)
+    birthdate: 1812
+    deathdate: 1883
+    gutenberg_agent_id: '36343'
+    url: http://www.gutenberg.org/2009/agents/36343
+description: ''
+gutenberg_issued: '2012-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39361'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Maori (New Zealand people) -- Social life and customs'
+- !lcc 'DU'
+- !lcsh 'New Zealand -- Description and travel'
+title: "Old New Zealand: A Tale of the Good Old Times\r\nAnd a History of the War\
+  \ in the North against the Chief Heke, in the Year 1845"
+url: http://www.gutenberg.org/ebooks/39361
